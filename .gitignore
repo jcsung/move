@@ -1,5 +1,17 @@
-input
-a.out
-move.exe
+*.out
 *.pdb
 *.PDB
+*.exe
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
